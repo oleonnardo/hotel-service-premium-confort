@@ -29,55 +29,14 @@ Esses três formam um padrão arquitetural chamado de MVC, ou Model View Control
 
 ## Estrutura do Projeto
 
-- Classes
-- Controllers
-- Models
-- Public
-- Views
-
-## Classes
-
-- class <strong>DataHora</strong> [Classe com funções das classes Calendar, Date, DateFormat e SimpleDateFormat];
-- class <strong>Flash</strong> [Classe com funções para a utilização do JOptionPane];
-- class <strong>Generator</strong> [Classe que possui funções para gerar um sequencial para a matricula e id dos cadastros];
-- class <strong>Numeros</strong> [Classe que controla a exibição e formatação de jTextFields nas interfaces e controle de casas decimais em números do tipo float];
-- class <strong>RequisitosFuncionais</strong> [Classe que possui todos os requisitos do projeto Minha Instituição, com alguns deles é possivel manipular ações da aplicação];
-	
+<img src="https://lh3.googleusercontent.com/ddNHsI7hPU9yUgYwHlhI8QeYCAWh23JVwzcdN8O3cOyu_R6RMpmfybF7SHVRR3LKdgYmbPnXtxfrWgkB1scO65XSHk80BO3XE647aQoq9SNufhSebCyXK3lSn6delBHP_eWtO6isHoSMglSfwqYgWxaevBQZIBgTL8DbH5kGjHWPYH68y1aLdmNTpiYgcp0Vi4F1dD9yS4_EYb-NscZGyL6GOvLrbVlTtm-Ar4O9o2-UoIYYNiRKVh8lsIo5rMwKqnkWSO_25EGuJiZS-27_hjzVDQpP5yLadyamrWIr39K7TFT0q11pqOnoQ0fVsyM6E4G-2sJlvfM69k_yfBnAjNjx7siXfW-380mncR6ZoRSTgAlShgynOeki1B4CNJSVTZfG8AaNypYhg1sUXuOLK7zn0FC_9BsLHkBB8aJS_xnKlThKOosS1dJkiB-7sGU3LLHeEwBFqyEdBCgxQwBrQlaSo4YN9bOuBKv1PpeVP4PJoZx5A8kAKJq4ztU2acJQZD6ov9pV3LWjSBowrRjTaRDn_6v4hBNgwpeFzjfZZsiYRXuhxUtGfk6n6A=w1326-h644" width="50%">
 	
 ## Controllers
 
 
-- class <strong>AlunoController</strong> 
-- class <strong>AlunoTurmaController</strong>
-- interface <strong>Controllers</strong> 
-- class <strong>DisciplinaController</strong>
-- class <strong>HistoricoAlunoController</strong> 
-- class <strong>ProfessorController</strong> 
-- class <strong>TurmaController</strong> 
-
 ## Models
 
-- class <strong>Aluno</strong> 
-- class <strong>AlunoTurma</strong>
-- class <strong>Disciplina</strong>
-- class <strong>HistoricoAluno</strong> 
-- class <strong>Professor</strong> 
-- class <strong>Turma</strong> 
 
 ## Public
-
-- (Flash, Icons, Images, lib, Logos)
-
-## Views
-
-- [package <strong>membros</strong>]: class <strong>Alunos</strong> extends javax.swing.JInternalFrame
-- [package <strong>membros</strong>]: class <strong>Professores</strong> extends javax.swing.JInternalFrame
-- class <strong>Creditos</strong> extends javax.swing.JInternalFrame
-- class <strong>Disciplinas</strong> extends javax.swing.JInternalFrame 
-- class <strong>HistoricoAluno</strong> extends javax.swing.JInternalFrame 
-- class <strong>MatriculaNotasAlunos</strong>  extends javax.swing.JInternalFrame 
-- class <strong>MembrosInstituição</strong>  extends javax.swing.JInternalFrame 
-- class <strong>Principal</strong> extends javax.swing.JFrame 
-- class <strong>Turmas</strong> extends javax.swing.JInternalFrame 
 
 
