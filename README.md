@@ -7,7 +7,7 @@ Professor: Danilo Abreu<br>
 Laboratório de Programação<br>
 Leonardo Araujo Silva<br>
 <br>
-Link da apresentação do projeto: <a href="#" target="_blank">clique aqui</a>
+Link da apresentação do projeto: <a href="https://www.youtube.com/watch?v=EB6ec485ZLY" target="_blank">clique aqui</a>
 </p>
 
 ## Sobre o Projeto
