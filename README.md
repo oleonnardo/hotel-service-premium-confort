@@ -31,9 +31,9 @@ Esses três formam um padrão arquitetural chamado de MVC, ou Model View Control
 
 ## Estrutura do Projeto
 
-<img src="https://scontent.fjdo1-1.fna.fbcdn.net/v/t1.0-9/44676577_102757574053853_5344013543379304448_n.jpg" style="margin-top: -22px;">
+<img src="https://scontent.fjdo1-1.fna.fbcdn.net/v/t1.0-9/44676577_102757574053853_5344013543379304448_n.jpg?_nc_cat=100&_nc_ht=scontent.fjdo1-1.fna&oh=f8bb04e962d4b4155d2f9e462386c5ec&oe=5C496CED" style="margin-top: -22px;">
 
-<img src="https://scontent.fjdo1-1.fna.fbcdn.net/v/t1.0-9/44628813_102757567387187_6970828936129282048_n.jpg">
+<img src="https://scontent.fjdo1-1.fna.fbcdn.net/v/t1.0-9/44628813_102757567387187_6970828936129282048_n.jpg?_nc_cat=110&_nc_ht=scontent.fjdo1-1.fna&oh=cc39cfc2f7b7a83f158c9e7871b834ad&oe=5C8301F3">
 
-<img src="https://scontent.fjdo1-1.fna.fbcdn.net/v/t1.0-9/44515358_102757564053854_9090189099620368384_n.jpg" style="margin-top: -25px; margin-left: 3px;">
+<img src="https://scontent.fjdo1-1.fna.fbcdn.net/v/t1.0-9/44515358_102757564053854_9090189099620368384_n.jpg?_nc_cat=105&_nc_ht=scontent.fjdo1-1.fna&oh=5dae47549462fc2aeeb4252c4068446d&oe=5C3F2735" style="margin-top: -25px; margin-left: 3px;">
 
